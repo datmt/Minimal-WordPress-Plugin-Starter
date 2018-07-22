@@ -1,0 +1,1 @@
+<h1>Awesome minimal plugin</h1>
